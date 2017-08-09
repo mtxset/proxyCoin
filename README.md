@@ -1,1 +1,1 @@
-# proxyCoin
+# Proxy Coin

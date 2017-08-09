@@ -1,0 +1,24 @@
+{
+  "name": "proxycoin",
+  "version": "1.0.0",
+  "description": "Proxy Coin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mtxset/proxycoin.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "ProxyCoin",
+    "Solidity"
+  ],
+  "author": "mtxset",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtxset/proxycoin/issues"
+  },
+  "homepage": "https://github.com/mtxset/proxycoin#readme"
+}
