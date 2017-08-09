@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mtxset/proxycoin/issues"
   },
-  "homepage": "https://github.com/mtxset/proxycoin#readme"
+  "homepage": "https://github.com/mtxset/proxycoin#readme",
+  "dependencies": {
+    "zeppelin-solidity": "^1.2.0"
+  }
 }
